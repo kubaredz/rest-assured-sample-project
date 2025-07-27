@@ -44,9 +44,9 @@ It is fully developed and maintained by **Jakub Redzinski** as a personal intell
 │ │ └── pet
 │ └── runner # Cucumber test runner
 └── resources
-└── features
-├── order
-└── pet
+   └── features
+      ├── order
+      └── pet
 </code></pre>
 ---
 ## How to Run Tests
@@ -96,4 +96,4 @@ mvn test -Dcucumber.filter.tags="${TAG}"
 
 ## Author
 ### Jakub Redzinski
-[LinkedIn – Jakub Redzinski](https://www.linkedin.com/in/kuba-redzinski)
+[LinkedIn – Jakub Redzinski](https://www.linkedin.com/in/jakub-redzinski)
